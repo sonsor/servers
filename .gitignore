@@ -1,0 +1,6 @@
+mariadb/data
+mariadb/dumps
+mongodb/data
+mongodb/dumps
+rabbitmq/data
+redis/redis-data
